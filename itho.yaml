@@ -3,7 +3,7 @@ esphome:
   platform: ESP8266
   board: d1_mini_pro
   includes: 
-    - ITHO/c1101.h
+    - c1101.h
   libraries: 
     - https://github.com/CoMPaTech/esphome_itho.git
 
